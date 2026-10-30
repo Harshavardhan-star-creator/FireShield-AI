@@ -1,0 +1,13 @@
+.venv/
+.venv_old/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+!.env.example
+*.db
+*.sqlite
+*.sqlite3
+.streamlit/secrets.toml
+.vscode/
+.DS_Store
