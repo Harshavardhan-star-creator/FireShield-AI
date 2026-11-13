@@ -1,6 +1,6 @@
 ﻿streamlit>=1.37,<2.0
 pandas>=2.2,<3.0
 plotly>=5.22,<7.0
-opencv-python>=4.10,<5.0
+opencv-python-headless>=4.10,<5.0
 ultralytics>=8.3,<9.0
 streamlit-webrtc>=0.63,<1.0
